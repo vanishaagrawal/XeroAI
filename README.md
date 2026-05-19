@@ -168,7 +168,7 @@ XeroAI/
 ```
 
 
-🚀 Installation & Setup
+#🚀 Installation & Setup
 
 1️⃣ Clone Repository
 git clone https://github.com/vanishaagrawal/XeroAI.git
@@ -176,7 +176,7 @@ git clone https://github.com/vanishaagrawal/XeroAI.git
 2️⃣ Navigate Into Project
 cd XeroAI
 
-⚙️ Backend Setup
+#⚙️ Backend Setup
 3️⃣ Navigate to Backend
 cd backend
 
@@ -206,7 +206,7 @@ Backend runs on:
 http://127.0.0.1:8000
 
 
-🎨 Frontend Setup
+#🎨 Frontend Setup
 
 8️⃣ Open New Terminal
 Navigate to frontend:
@@ -220,14 +220,14 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
-🔐 Environment Variables
+#🔐 Environment Variables
 Create .env inside backend:
 GROQ_API_KEY=your_api_key
 
 📸 Platform Preview
 Dashboard Interface
 
-🚀 Future Roadmap
+#🚀 Future Roadmap
 
 🎙️ Voice-Based AI Interviews
 ☁️ Cloud Deployment
@@ -243,19 +243,19 @@ Secure API Communication
 Environment Variable Protection
 Secret Key Isolation
 
-👩‍💻 Developed By
+#👩‍💻 Developed By
 Vanisha Agrawal
 
 B.Tech Computer Science Student
 AI/LLM Enthusiast • Full-Stack Developer • Multi-Agent AI Explorer
 
-⭐ Contributing
+#⭐ Contributing
 
 Contributions are welcome.
 Fork the repository and submit a pull request to improve XeroAI.
 
-📜 License
+#📜 License
 This project is licensed under the MIT License.
 
-🌟 Support
+#🌟 Support
 If you found this project useful, consider giving it a ⭐ on GitHub.
